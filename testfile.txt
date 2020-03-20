@@ -2,6 +2,7 @@ testfile
 
 function test() {
     print("hey im causing merge problems");
+    print("Hello World!");
 }
 
 try to format code file using ide for consistent formats.
